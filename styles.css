@@ -1,0 +1,46 @@
+body {
+	margin: 0px;
+	background-color: black;
+	color: white;
+}
+
+h1 {
+	color: white;
+}
+
+h3 {
+	color: white;
+}
+
+a {
+	text-decoration: underline;
+	text-decoration-style: dashed;
+	color: black;
+	background-color: white;
+}
+
+a:hover {
+	text-decoration: underline;
+	text-decoration-style: solid;
+	background-color: white;
+}
+
+.bar {
+	width: 100%;
+	background-color: white;
+	height: 20px;
+}
+
+.content_container {
+	display: flex;
+	justify-content: center;
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.text_container {
+	max-width: 500px;
+	margin-bottom: 40px;
+	margin-left: 20px;
+	margin-right: 20px;
+	color: #00bfff;
+}
