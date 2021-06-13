@@ -1,28 +1,28 @@
 body {
 	margin: 0px;
-	background-color: black;
+	background-color: white;
 	color: white;
 }
 
 h1 {
-	color: white;
+	color: black;
 }
 
 h3 {
-	color: white;
+	color: black;
 }
 
 a {
 	text-decoration: underline;
 	text-decoration-style: dashed;
 	color: black;
-	background-color: white;
+	background-color: #D3D3D3;
 }
 
 a:hover {
 	text-decoration: underline;
 	text-decoration-style: solid;
-	background-color: white;
+	background-color: #FFFACD;
 }
 
 .bar {
@@ -42,5 +42,5 @@ a:hover {
 	margin-bottom: 40px;
 	margin-left: 20px;
 	margin-right: 20px;
-	color: #00bfff;
+	color: #383838;
 }
